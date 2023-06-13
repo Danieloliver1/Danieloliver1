@@ -48,7 +48,7 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=Danieloliver1">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Danieloliver1&bg_color=F0FFF0,836FFF,904e95&title_color=836FFF&text_color=fff&hide_border=true">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Danieloliver1&bg_color=30,836FFF,904e95&title_color=836FFF&text_color=fff&hide_border=true">
         </a>
       </td>
     </tr>
@@ -65,9 +65,9 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=Danieloliver1">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=Danieloliver1&bg_color=E0FFFF">
-        </a>
+<!--         <a href="https://activity-graph.herokuapp.com/graph?username=Danieloliver1">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=Danieloliver1">
+        </a> -->
       </td>
     </tr>
   </tbody>
