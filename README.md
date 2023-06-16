@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Danieloliver1&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=6959CD&text_color=836FFF&bg_color=F0FFF0" alt="Daniel Oliveira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Danieloliver1&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=6959CD&text_color=836FFF&bg_color=E0FFFF" alt="Daniel Oliveira github stats" /> 
 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieloliver1&layout=compact&hide_border=true&title_color=1E90FF&text_color=4169E1&bg_color=F0FFF0" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieloliver1&layout=compact&hide_border=true&title_color=1E90FF&text_color=4169E1&bg_color=E0FFFF" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danieloliver1&bg_color=F0FFF0&color=4c7b9e&line=dedede&point=13cfdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danieloliver1&bg_color=E0FFFF&color=4c7b9e&line=dedede&point=13cfdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
